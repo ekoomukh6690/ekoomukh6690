@@ -1,0 +1,29 @@
+/* #profilimg{
+    clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+} */
+body{
+    font-family: font-family: 'Poppins', sans-serif;
+
+}
+#textku{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 1em;
+    height: 1em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: gray;
+  }
+  
+  .svg-icon circle {
+    stroke: gray;
+    stroke-width: 1;
+  }
